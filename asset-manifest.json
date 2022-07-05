@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DS-Site/static/css/main.d0ab618a.css",
+    "main.js": "/DS-Site/static/js/main.d9098863.js",
+    "static/js/787.b50e8be6.chunk.js": "/DS-Site/static/js/787.b50e8be6.chunk.js",
+    "index.html": "/DS-Site/index.html",
+    "main.d0ab618a.css.map": "/DS-Site/static/css/main.d0ab618a.css.map",
+    "main.d9098863.js.map": "/DS-Site/static/js/main.d9098863.js.map",
+    "787.b50e8be6.chunk.js.map": "/DS-Site/static/js/787.b50e8be6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ab618a.css",
+    "static/js/main.d9098863.js"
+  ]
+}
