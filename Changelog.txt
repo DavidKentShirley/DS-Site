@@ -1,0 +1,30 @@
+July 5, 2022
+**** Major Update ****
+---- I have now moved over to react ----
+* React Framework implemented, site will no longer have the same structure as before
+* Nav menu added (React Router)
+* Home, About, Projects and Contact pages have been created
+* Github Pages Updated to display new Site
+* New theme (Only shown on the navbar atm)
+* New fonts, and style
+* New github layout due to the new react change
+
+June 23, 2022
+* Added about and contact pages
+
+June 22, 2022
+* Added github pages for the site
+* Changed folder tree
+    - css is own folder and all other html besides index in another
+* Added projects page
+* Added Footer
+    - Added information section
+* Changed Main body section
+    - New text (Subject to change)
+* Updated CSS
+    - Changed Header Background
+    - Changed Body Background
+
+June 21, 2022
+* Added first files for html + css
+    - Just some basic groundwork
