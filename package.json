@@ -2,7 +2,7 @@
   "name": "ds-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://davidkentshirley.github.io/DS-Site/",
+  "homepage": "https://davidkentshirley.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -42,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "jquery": "^3.6.0",
     "sass": "^1.53.0"
   }
 }

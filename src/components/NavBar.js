@@ -5,6 +5,10 @@ import { About } from './../pages/About'
 import { Projects } from './../pages/Projects'
 import { Contact } from './../pages/Contact'
 import { ErrorPage } from './../pages/ErrorPage'
+import $ from 'jquery';
+
+
+
 
 export function NavBar() {
   return (
@@ -12,10 +16,9 @@ export function NavBar() {
       <Router>
         <nav id="nav">
           <div className='nav left'>
-            <span class="gradient skew"><h1 class="logo un-skew"><Link to="/"> Add LOGO </Link></h1></span>
+            <span class="gradient skew"><h1 class="logo un-skew"><Link to="/"> DS Web </Link></h1></span>
             <button id="menu" class="btn-nav"><span class="fas fa-bars"></span></button>
           </div>
-
           <div className="nav right">
             <Link to="/" className="nav-link active"><span className="nav-link-span"><span className="u-nav"> Home </span></span></Link>
             <Link to="/about" className="nav-link"><span className="nav-link-span"><span className="u-nav"> About </span></span></Link>
@@ -32,7 +35,10 @@ export function NavBar() {
         </Routes>
         <footer className='nav-footer'>
           <nav>
-            <Link to="" className='Link'> <img src="" alt="Github"/> </Link>
+            <Link to="" className='Link' id="git"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/github-icon.png" alt="Github" height="50px"/> </Link>
+            <Link to="" className='Link' id="gmail"> <img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Github" height="50px"/> </Link>
+            <Link to="" className='Link' id="git"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/github-icon.png" alt="Github" height="50px"/> </Link>
+            <Link to="" className='Link' id="git"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/github-icon.png" alt="Github" height="50px"/> </Link>
           </nav>
         </footer>
       </Router>

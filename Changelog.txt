@@ -1,3 +1,10 @@
+July 6, 2022
+* Added new theme
+* Added new headers for each pages
+* Place holder text for Home Page
+* Placeholder Table for Projects Page
+* Footer placeholder
+
 July 5, 2022
 **** Major Update ****
 ---- I have now moved over to react ----
